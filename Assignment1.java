@@ -1,4 +1,4 @@
-// package com.Assignment.Amdocs;
+package com.Assignment.Amdocs;
 
 import java.util.Scanner;
 
